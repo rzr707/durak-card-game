@@ -1,0 +1,13 @@
+{
+  "name": "my-node-backend",
+  "version": "1.0.0",
+  "description": "A backend for a card game",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
